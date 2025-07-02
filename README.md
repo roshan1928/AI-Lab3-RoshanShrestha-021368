@@ -1,4 +1,4 @@
-# 🔍 Machine Learning: k-Nearest Neighbors (kNN)
+# Machine Learning: k-Nearest Neighbors (kNN)
 
 This project demonstrates how to implement the **k-Nearest Neighbors (kNN)** algorithm from scratch using Python. It includes:
 
@@ -8,7 +8,7 @@ This project demonstrates how to implement the **k-Nearest Neighbors (kNN)** alg
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File Name                        | Description |
 |----------------------------------|-------------|
@@ -19,7 +19,7 @@ This project demonstrates how to implement the **k-Nearest Neighbors (kNN)** alg
 
 ---
 
-## 📘 Description
+## Description
 
 This project uses **Euclidean distance** to measure similarity between data points.
 
